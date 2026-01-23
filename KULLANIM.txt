@@ -1,0 +1,56 @@
+APARTMAN YÖNETİM SİSTEMİ
+========================
+
+PROJE ÖZELLİKLERİ:
+------------------
+✓ DevExpress 25.1 kullanıldı
+✓ .NET Framework 4.8
+✓ SQL Server 2022 veritabanı
+✓ Basit ve sade tasarım
+✓ Apartman maketi görünümü (4 kat, kat başına 3 daire)
+
+GİRİŞ BİLGİLERİ:
+----------------
+Admin:
+  Kullanıcı Adı: admin
+  Şifre: admin123
+
+Normal Kullanıcı:
+  Kullanıcı Adı: user1
+  Şifre: user123
+
+  Kullanıcı Adı: user2
+  Şifre: user123
+
+DAİRELER:
+---------
+4. Kat: 401, 402, 403
+3. Kat: 301, 302, 303
+2. Kat: 201, 202, 203
+1. Kat: 101, 102, 103
+
+ANA EKRAN ÖZELLİKLERİ:
+----------------------
+✓ Her daire için renk kodlu kart
+  - Yeşil: Ödendi
+  - Sarı: Bekliyor
+  - Kırmızı: Gecikmiş
+  
+✓ Daire kartına tıklayınca detay gösterir
+✓ Apartman maketi görünümü
+✓ DevExpress Panels kullanıldı
+
+NASIL ÇALIŞTIRILIR:
+-------------------
+1. Veritabani.sql dosyasını SSMS'de çalıştırın
+2. Visual Studio ile projeyi açın
+3. Build > Build Solution
+4. F5 ile çalıştırın
+5. Giriş bilgileri ile giriş yapın
+
+NOTLAR:
+-------
+- Basit ve sade tasarım tercih edildi
+- Gereksiz karmaşıklık yok
+- DevExpress kontrolleri kullanıldı
+- Proje klasör yapısı minimal tutuldu

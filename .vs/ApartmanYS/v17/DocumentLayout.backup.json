@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HamzaSoftware\\OneDrive\\Desktop\\ApartmanYS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|ApartmanYS.Forms\\ApartmanYS.Forms.csproj|c:\\users\\hamzasoftware\\onedrive\\desktop\\apartmanys\\apartmanys.forms\\apartmanys.forms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|ApartmanYS.Forms\\ApartmanYS.Forms.csproj|solutionrelative:apartmanys.forms\\apartmanys.forms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 220,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApartmanYS.Forms",
+              "DocumentMoniker": "C:\\Users\\HamzaSoftware\\OneDrive\\Desktop\\ApartmanYS\\ApartmanYS.Forms\\ApartmanYS.Forms.csproj",
+              "RelativeDocumentMoniker": "ApartmanYS.Forms\\ApartmanYS.Forms.csproj",
+              "ToolTip": "C:\\Users\\HamzaSoftware\\OneDrive\\Desktop\\ApartmanYS\\ApartmanYS.Forms\\ApartmanYS.Forms.csproj",
+              "RelativeToolTip": "ApartmanYS.Forms\\ApartmanYS.Forms.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-02T15:46:04.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 180,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
