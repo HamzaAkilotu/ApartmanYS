@@ -2,6 +2,10 @@
 
 C# ve DevExpress ile geliştirilen bir Windows Forms uygulaması. Yönetici, dört kattaki on iki dairenin aidat durumunu tek ekrandan takip edebilir. Yeşil kart ödenmiş, sarı kart bekleyen, kırmızı kart gecikmiş aidatı gösterir. Kart seçildiğinde dairenin detayları açılır.
 
+| Yönetici · Daire haritası | Daire sakini · Şikâyet formu |
+| --- | --- |
+| ![Yönetici ekranı](docs/yonetici.webp) | ![Daire sakini ekranı](docs/sakin.webp) |
+
 | İşlem | İlgili kod |
 | --- | --- |
 | Oturum açma | [Giriş formu](ApartmanYS.Forms/Forms/FrmLogin.cs) |
